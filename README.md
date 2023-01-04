@@ -12,5 +12,4 @@ This project aimed to use a deep learning model to predict the robotic arm grasp
 
 <div id="refer-anchor-1"></div>
 
-- [1] [Closing the Loop for Robotic Grasping: A Real-time, Generative Grasp Synthesis Approach]([[1804.05172\] Closing the Loop for Robotic Grasping: A Real-time, Generative Grasp Synthesis Approach (arxiv.org)](https://arxiv.org/abs/1804.05172))
-
+- [1] [Closing the Loop for Robotic Grasping: A Real-time, Generative Grasp Synthesis Approach](https://arxiv.org/abs/1804.05172)
