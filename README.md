@@ -1,4 +1,4 @@
-# Vision Based Grasp Learning Using Deep Learning
+# Visual Information-Based Grasping of the Robotic Arm Using Deep Learning
 
 ## Project Description
 
