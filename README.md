@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project aimed to leverage a deep learning model to predict the robotic arm grasp poses from a depth image scene. According to the objects' spatial information, the deep learning model can output the grasp position, grasp angle, and gripper width to finish the grasp work. The GGCNN [<sup>1</sup>](#refer-anchor-1) was implemented in this project since It is a simple model and is widely used.
+This project aimed to leverage a deep learning model to predict the robotic arm grasp poses from a depth image scene. According to the objects' spatial information, the deep learning model can output the grasp position, grasp angle, and gripper width to finish the grasp work. The GGCNN [<sup>1</sup>](#refer-anchor-1) was implemented in this project since it is a simple and widely used model..
 
 The goal of this project is not to create novel models or algorithms but to familiarize yourself with the entire workflow of network training, environment construction, and grasping based on the predicted results in the simulated environment.
 
