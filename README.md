@@ -10,7 +10,7 @@ The goal of this project is not to create novel models or algorithms but to fami
     <img src="./images/grasp.gif">
 </figure>
 
-<div style="text-align:justify;font-size:12px;"><b>Fig 1.</b> The left gif shows the grasping process of the panda robotic arm in the Pybullet simulation environment, and the right gif shows the rendered depth map. The position marked by the red line in the depth map is the grasping position of the gripper.</div>
+<div style="text-align:justify;font-size:12px;"><b>Fig 1.</b> The left gif shows the grasping process of the panda robotic arm in the Pybullet simulation environment, and the right gif shows the rendered depth map. The red line in the depth map is the grasping position of the gripper.</div>
 
 ## Installation
 
