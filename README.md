@@ -51,8 +51,17 @@ The goal of this project is not to create novel models or algorithms but to fami
 
 
 
+## Dataset
+
+In this project, I used the Cornell Dataset to train our model. The relabeled dataset [<sup>2</sup>](#refer-anchor-2) can be found [Here](https://drive.google.com/file/d/1QKdPAFsYo0LmZD_ZBRUJuWOHjCKIAAXG/view?usp=sharing).
+
 ## Reference
 
 <div id="refer-anchor-1"></div>
 
 - [1] [Closing the Loop for Robotic Grasping: A Real-time, Generative Grasp Synthesis Approach](https://arxiv.org/abs/1804.05172)
+
+<div id="refer-anchor-2"></div>
+
+- [2] [High-Performance Pixel-Level Grasp Detection Based on Adaptive Grasping and Grasp-Aware Network](https://ieeexplore.ieee.org/document/9586564)
+
